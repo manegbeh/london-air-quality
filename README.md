@@ -200,10 +200,10 @@ Missing pollutant values are retained as nulls rather than replaced with zero.
 
 | Metric                         | Result |
 | ------------------------------ | -----: |
-| Stored records                 |  3,072 |
-| Valid measurements             |  2,711 |
+| Stored records                 |  3,024 |
+| Valid measurements             |  2,663 |
 | Duplicate measurement keys     |      0 |
-| Overall completeness           | 88.25% |
+| Overall completeness           | 88.06% |
 | Station-pollutant combinations |      6 |
 
 The historical reprocessing test successfully revisited 10–12 May 2026 without increasing the number of unique records.
