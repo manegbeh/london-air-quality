@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# macOS
+.DS_Store
+
+# Local tooling
+.agents/
+
+# Generated datasets
+data/processed/*.parquet
+
+# Streamlit local configuration
+.streamlit/secrets.toml
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
